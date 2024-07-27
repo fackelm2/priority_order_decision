@@ -1,8 +1,8 @@
 # priority-order-decision
-## command line tool to prioritize tasks (written in Python)
-A simple commandline-tool to set priorities by scoring. <br>
-Prioritize your tasks by comparing two of them and decide which task to give preference.<br>
-Enter your tasks or tasklist, answer which task to prefer and get the priolist.
+## Command line tool to prioritise tasks (written in Python)
+A simple commandline-tool to prioritise tasks by scoring them. <br>
+Prioritise your tasks by comparing two of them and deciding which one to prioritise.<br>
+Enter your tasks or task list, answer which task to prioritise and get the priority list.
 
 ### Download & Run
 
