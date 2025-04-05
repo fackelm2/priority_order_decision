@@ -4,6 +4,7 @@ df.priority-order-decision.py: A Python script (command-line interface) to order
 Development under Python 3.7 (venv)
 the intent was a fast first try - not a clean code ;-) 15.11.2021
 """
+__version__ = "0.2.20250405"
 __author__ = "Dietmar Fackelmann"
 __email__ = "fackelm2@nmit.de"
 __license__ = "GPLv3"
